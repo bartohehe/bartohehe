@@ -1,16 +1,16 @@
-## Hi there 👋
+## Hi I'm Bartek
 
-<!--
-**bartohehe/bartohehe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm beginner in the IT industry.
 
-Here are some ideas to get you started:
+Currently I try to finish my bachelor degree in cloud aplications, but meanwhile I'm building everything that comes to my mind.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+My main programing language is Python. I'm also learning React and C#.
+I use VS Code and I'm learning Figma for better visualizations of my projects.
+
+In the future I want to build and publish a game all by myself.
+
+My hobbies:
+  - Gym
+  - Cars
+  - Video games
+  - Volleyball
